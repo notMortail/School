@@ -1,0 +1,958 @@
+{
+  "username" : "admin",
+  "userPoints" : [ {
+    "x" : 600.0,
+    "y" : 1315.0,
+    "name" : "220",
+    "iconImg" : "Collaborative Room",
+    "floor" : 2,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 615.0,
+    "y" : 1095.0,
+    "name" : "239",
+    "iconImg" : "Collaborative Room",
+    "floor" : 2,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 550.0,
+    "y" : 1380.0,
+    "name" : "325",
+    "iconImg" : "Collaborative Room",
+    "floor" : 3,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 250.0,
+    "y" : 1150.0,
+    "name" : "230",
+    "iconImg" : "Computer Lab",
+    "floor" : 2,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 420.0,
+    "y" : 1080.0,
+    "name" : "239",
+    "iconImg" : "Computer Lab",
+    "floor" : 2,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 855.0,
+    "y" : 900.0,
+    "name" : "240",
+    "iconImg" : "Computer Lab",
+    "floor" : 2,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1255.0,
+    "y" : 670.0,
+    "name" : "342",
+    "iconImg" : "Computer Lab",
+    "floor" : 3,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1730.0,
+    "y" : 1040.0,
+    "name" : "300",
+    "iconImg" : "Classroom",
+    "floor" : 3,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1050.0,
+    "y" : 1100.0,
+    "name" : "316",
+    "iconImg" : "Classroom",
+    "floor" : 3,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 860.0,
+    "y" : 1200.0,
+    "name" : "320",
+    "iconImg" : "Classroom",
+    "floor" : 3,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1405.0,
+    "y" : 965.0,
+    "name" : "5B",
+    "iconImg" : "Men's Washroom",
+    "floor" : 0,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1515.0,
+    "y" : 935.0,
+    "name" : "4B",
+    "iconImg" : "Women's Washroom",
+    "floor" : 0,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 860.0,
+    "y" : 1200.0,
+    "name" : "4C",
+    "iconImg" : "Unisex Washroom",
+    "floor" : 0,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1250.0,
+    "y" : 980.0,
+    "name" : "6",
+    "iconImg" : "Classroom",
+    "floor" : 0,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 890.0,
+    "y" : 880.0,
+    "name" : "17",
+    "iconImg" : "Classroom",
+    "floor" : 0,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1260.0,
+    "y" : 670.0,
+    "name" : "18",
+    "iconImg" : "Restaurant",
+    "floor" : 0,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 225.0,
+    "y" : 1390.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 0,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 700.0,
+    "y" : 1270.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 0,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2060.0,
+    "y" : 950.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 0,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 3060.0,
+    "y" : 1440.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 0,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1900.0,
+    "y" : 855.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 0,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2705.0,
+    "y" : 1240.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 0,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 945.0,
+    "y" : 670.0,
+    "name" : "",
+    "iconImg" : "Door",
+    "floor" : 0,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1085.0,
+    "y" : 610.0,
+    "name" : "",
+    "iconImg" : "Door",
+    "floor" : 0,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1425.0,
+    "y" : 420.0,
+    "name" : "",
+    "iconImg" : "Door",
+    "floor" : 0,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1730.0,
+    "y" : 370.0,
+    "name" : "",
+    "iconImg" : "Door",
+    "floor" : 0,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2040.0,
+    "y" : 425.0,
+    "name" : "",
+    "iconImg" : "Door",
+    "floor" : 0,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 550.0,
+    "y" : 1385.0,
+    "name" : "105",
+    "iconImg" : "Classroom",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 330.0,
+    "y" : 1125.0,
+    "name" : "105B",
+    "iconImg" : "Classroom",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1725.0,
+    "y" : 580.0,
+    "name" : "110",
+    "iconImg" : "Classroom",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1410.0,
+    "y" : 950.0,
+    "name" : "100",
+    "iconImg" : "Men's Washroom",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2790.0,
+    "y" : 1310.0,
+    "name" : "139",
+    "iconImg" : "Women's Washroom",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 225.0,
+    "y" : 1390.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 700.0,
+    "y" : 1270.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2060.0,
+    "y" : 950.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 3060.0,
+    "y" : 1440.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 170.0,
+    "y" : 1425.0,
+    "name" : "",
+    "iconImg" : "Door",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 765.0,
+    "y" : 1370.0,
+    "name" : "",
+    "iconImg" : "Door",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1730.0,
+    "y" : 1080.0,
+    "name" : "",
+    "iconImg" : "Door",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1915.0,
+    "y" : 1090.0,
+    "name" : "",
+    "iconImg" : "Door",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2070.0,
+    "y" : 1030.0,
+    "name" : "",
+    "iconImg" : "Door",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2670.0,
+    "y" : 1300.0,
+    "name" : "",
+    "iconImg" : "Door",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 3110.0,
+    "y" : 1470.0,
+    "name" : "",
+    "iconImg" : "Door",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1900.0,
+    "y" : 855.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2705.0,
+    "y" : 1240.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 1,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1725.0,
+    "y" : 770.0,
+    "name" : "204",
+    "iconImg" : "Classroom",
+    "floor" : 2,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 235.0,
+    "y" : 1385.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 2,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 715.0,
+    "y" : 1280.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 2,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2050.0,
+    "y" : 960.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 2,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 3060.0,
+    "y" : 1435.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 2,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1905.0,
+    "y" : 850.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 2,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2705.0,
+    "y" : 1240.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 2,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1415.0,
+    "y" : 950.0,
+    "name" : "205",
+    "iconImg" : "Women's Washroom",
+    "floor" : 2,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2785.0,
+    "y" : 1300.0,
+    "name" : "278",
+    "iconImg" : "Unisex Washroom",
+    "floor" : 2,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1415.0,
+    "y" : 955.0,
+    "name" : "311",
+    "iconImg" : "Men's Washroom",
+    "floor" : 3,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2155.0,
+    "y" : 960.0,
+    "name" : "388",
+    "iconImg" : "Women's Washroom",
+    "floor" : 3,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1905.0,
+    "y" : 850.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 3,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2705.0,
+    "y" : 1235.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 3,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 215.0,
+    "y" : 1400.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 3,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 725.0,
+    "y" : 1305.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 3,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2055.0,
+    "y" : 940.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 3,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 3060.0,
+    "y" : 1440.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 3,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2705.0,
+    "y" : 1240.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 4,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2055.0,
+    "y" : 960.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 4,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 3045.0,
+    "y" : 1425.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 4,
+    "building" : "Middlesex College",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2395.0,
+    "y" : 560.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 0,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1270.0,
+    "y" : 650.0,
+    "name" : "2",
+    "iconImg" : "Men's Washroom",
+    "floor" : 1,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1270.0,
+    "y" : 540.0,
+    "name" : "4",
+    "iconImg" : "Women's Washroom",
+    "floor" : 1,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 220.0,
+    "y" : 505.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 1,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1215.0,
+    "y" : 790.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 1,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2395.0,
+    "y" : 570.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 1,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1250.0,
+    "y" : 400.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 1,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1190.0,
+    "y" : 380.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 1,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1270.0,
+    "y" : 650.0,
+    "name" : "201",
+    "iconImg" : "Men's Washroom",
+    "floor" : 2,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1270.0,
+    "y" : 540.0,
+    "name" : "203",
+    "iconImg" : "Women's Washroom",
+    "floor" : 2,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 220.0,
+    "y" : 505.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 2,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1215.0,
+    "y" : 790.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 2,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2395.0,
+    "y" : 570.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 2,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1250.0,
+    "y" : 400.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 2,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1190.0,
+    "y" : 380.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 2,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1270.0,
+    "y" : 650.0,
+    "name" : "301",
+    "iconImg" : "Men's Washroom",
+    "floor" : 3,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1270.0,
+    "y" : 540.0,
+    "name" : "303",
+    "iconImg" : "Women's Washroom",
+    "floor" : 3,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 220.0,
+    "y" : 505.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 3,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1215.0,
+    "y" : 790.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 3,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2395.0,
+    "y" : 570.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 3,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1250.0,
+    "y" : 400.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 3,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1190.0,
+    "y" : 380.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 3,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1270.0,
+    "y" : 650.0,
+    "name" : "401",
+    "iconImg" : "Men's Washroom",
+    "floor" : 4,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1270.0,
+    "y" : 540.0,
+    "name" : "403",
+    "iconImg" : "Women's Washroom",
+    "floor" : 4,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 220.0,
+    "y" : 505.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 4,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1215.0,
+    "y" : 790.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 4,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2395.0,
+    "y" : 570.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 4,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1250.0,
+    "y" : 400.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 4,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1190.0,
+    "y" : 380.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 4,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1185.0,
+    "y" : 380.0,
+    "name" : "",
+    "iconImg" : "Elevator",
+    "floor" : 5,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 215.0,
+    "y" : 500.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 5,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1260.0,
+    "y" : 795.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 5,
+    "building" : "Thompson Engineering Building",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 825.0,
+    "y" : 310.0,
+    "name" : "51",
+    "iconImg" : "Women's Washroom",
+    "floor" : 0,
+    "building" : "Westminster Hall",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1580.0,
+    "y" : 315.0,
+    "name" : "1",
+    "iconImg" : "Men's Washroom",
+    "floor" : 0,
+    "building" : "Westminster Hall",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 880.0,
+    "y" : 290.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 0,
+    "building" : "Westminster Hall",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1525.0,
+    "y" : 290.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 0,
+    "building" : "Westminster Hall",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 2310.0,
+    "y" : 500.0,
+    "name" : "",
+    "iconImg" : "Stairs",
+    "floor" : 0,
+    "building" : "Westminster Hall",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 980.0,
+    "y" : 250.0,
+    "name" : "",
+    "iconImg" : "Door",
+    "floor" : 0,
+    "building" : "Westminster Hall",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 300.0,
+    "y" : 710.0,
+    "name" : "",
+    "iconImg" : "Door",
+    "floor" : 0,
+    "building" : "Westminster Hall",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 670.0,
+    "y" : 610.0,
+    "name" : "",
+    "iconImg" : "Door",
+    "floor" : 0,
+    "building" : "Westminster Hall",
+    "favourite" : false,
+    "builtIn" : true
+  }, {
+    "x" : 1730.0,
+    "y" : 610.0,
+    "name" : "",
+    "iconImg" : "Door",
+    "floor" : 0,
+    "building" : "Westminster Hall",
+    "favourite" : false,
+    "builtIn" : true
+  } ]
+}��&ONC�" 
