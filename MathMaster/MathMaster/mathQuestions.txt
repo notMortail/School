@@ -1,0 +1,226 @@
+#Easy - Gr.1 - Gr.6
+#Question Types: Addition, Subtraction, Multiplication, Division, Fractions
+
+Addition: 3+5=8
+            Hint: Add the numbers together using finger counting.
+          27+48=75
+            Hint: Add the tens and ones separately, then combine: 20+40, 7+8, then combine to get the answer.
+          12+8+5=25
+            Hint: Add each number one by one: 12+8, then add 5 to that result.
+          356+219=575
+            Hint: Add the hundreds, tens, and ones separately, then combine: 300+200, 50+10, 6+9, then combine to get the answer.
+          4.6+2.73=7.33
+            Hint: Add the whole numbers and decimals separately, then combine that result. Simply add decimals as you would with whole numbers.
+          3,456,789+2,987,654=6,444,443
+            Hint: Add each digit separately, starting from the right.
+
+Subtraction: 9-3 = 6
+               Hint: Remove 3 from 9. Use finger counting if necessary.
+             45-18=27
+              Hint: Subtract the ones then tens digits.
+             100-27=73
+              Hint: First remove 20 from 100, then remove 7 from that result.
+             748-392=356
+              Hint: Subtract each digit separately, starting from the right.
+             8.25-3.68=4.57
+              Hint: Subtract the whole numbers and decimals separately, then combine that result. Simply subtract decimals as you would with whole numbers.
+             8,765-3,219=5,546
+              Hint: Subtract each digit separately, starting from the right.
+
+Multiplication: 6*7=42
+                  Hint: Add 7 six times.
+                4*8=32
+                 Hint: Add 8 four times.
+                9*0=0
+                 Hint: Any number multiplied by 0 is ....?
+                324*17=5,508
+                 Hint: Multiply each digit separately, starting from the right.
+                3.5*2.5=8.75
+                 Hint: Multiply the whole numbers and decimals separately, then combine that result. Simply multiply decimals as you would with whole numbers.
+                789*456=359,784
+                  Hint: Multiply each digit separately, starting from the right.
+                5.2*14=72.8
+                  Hint: Multiply the whole numbers and decimals separately, then combine that result. Simply multiply decimals as you would with whole numbers.
+
+Division: 63/7=9
+            Hint: How many times can 7 go into 63?
+          36/3=12
+            Hint: Divide 3 from the tens digit, 3, then ones digit, 6.
+          27/1=27
+            Hint: Any number divided by 1 is ....?
+          294/7=42
+            Hint: Divide 29 by 7. Take that quotient as the next tens digit and 4 as the ones digit and divide by 7.
+          8.4/2=4.2
+            Hint: Divide 8 by 4. Divide decimals as you would with whole numbers. Combine the whole number and decimal result.
+          5.6/0.4=14
+            Hint: Divide decimals as you would with whole numbers. Keep in mind the decimal places for the final result.
+          
+Fractions: 1/4+3/8=5/8
+             Hint: Find a common denominator and add.
+           5.25+1/3=5 7/12
+             Hint: Add the whole numbers and fractions separately and combine the answers.
+           5 3/4-2 1/2= 3 1/4
+             Hint: Subtract the whole numbers and fractions separately and combine the answers.
+           12.5-1/3 = 12 1/6
+             Hint: Convert the decimal to a fraction, or fraction to a decimal to subtract.
+           2/3*3/4 = 1/2
+             Hint: Multiply the numerator and denominators separately.
+           3/5 / 1/4= 4/5
+             Hint: Invert one of the fractions and multiply that with the other fraction.
+           6,378/42= 36 6/7
+             Hint: How many times does 42 go into 6,378? If it does not divide cleanly, use the quotient for the fraction.
+
+          
+
+
+
+//Medium - Gr.7 - Gr.12
+Question Types: Algebra, Quadratic Equations, Trigonometry, Probability
+
+Geometry: Find the area of right angle triangle with a base of 6 units and a height of 8 units
+            Area = (1/2) * base * height = (1/2) * 6 * 8 = 24 square units
+            Hint: Area of triangle is (1/2) * base * height. Base is 6 and height is 8.
+          Find the area of a rectangle with a length of 10 units and a width of 4 units
+            Area = length * width = 10 * 4 = 40 square units
+            Hint: Area of rectangle is length * width. Length is 10 and width is 4.
+          Calculate the volume of a sphere with a radius of 5 units to the nearest tenths.
+            523.6 cubic units
+            Hint: Volume of a sphere is (4/3)*pi*r^3. r = radius is 5, pi is rounded to 3.14.
+
+Algebra: Solve for x: 2x - 5 = 11  
+            x=8
+            Hint: Add 5 to both sides and divide by 2.
+         Solve for x: 3x + 5 = 17.
+            x = 4.
+            Hint: Subtract 5 from both sides and divide by 3.
+         Factor the expression: x^2 - 4.
+            (x - 2)(x + 2).
+            Hint: Quadratic formula is (-b±√(b²-4ac))/(2a). a is 1, b is 0, c is -4.
+         Simplify the expression: (2x^2)(3x^3).
+            6x^5.
+            Hint: Multiply the whole numbers and add the exponent values.
+         Solve the equation: 2(2x - 3) = 10.
+            x = 4.
+            Hint: Divide both sides by 2, add 3, then divide by 2 again.
+         Find the value of x: |x - 7| = 9.
+            x = -2.
+            Hint: |-9| is 9. -7 and what results in -9?
+
+
+Quadratic Equations: Solve x^2 - 5x + 6 = 0  
+                        x=2 or x=3
+                        Hint: (-b±√(b²-4ac))/(2a). A is 1, b is -5, c is 6.
+                     Solve 2x^2 - 7x +3 = 0
+                        x = 1/2 or x = 3
+                        Hint: Quadratic formula is (-b±√(b²-4ac))/(2a). a is 2, b is -7, c is 3.
+                     Solve x^2 - 9 = 0
+                        x = 3 or x = -3
+                        Hint: Quadratic formula is (-b±√(b²-4ac))/(2a). a is 1, b is 0, c is -9.
+
+Trigonometry: Find sin30= 1/2
+                Hint: sin30 = cos60. sin 0 is 0, sin 90 is 1.
+              Find cos45= √2/2
+                Hint: cos45 = sin45. cos 0 is 1, cos 90 is 0.
+              Find sin60= √3/2
+                Hint: sin60 = cos30. sin 0 is 0, sin 90 is 1.
+              Find tan 45 = 1
+                Hint: tan45 = sin0 = cos90.
+              Find cos60 = 1/2
+                Hint: cos60 = sin30.  cos 0 is 1, cos 90 is 0.
+              Find tan60+cot30 = 2√3
+                Hint: Find tan60 then cot30 and add cot30 = cosx/sinx.
+              Find sin45+cos45 = √2 
+                Hint: sin45 = cos45         
+
+Calculus: Find the derivative of f(x) = 3x^2 - 4x + 2
+            f'(x) = 9x^2 - 4
+            Hint: Use the power rule for derivatives: n*x^(n-1). Each term may be calculated separately and combined at the end.
+          Find the derivative of f(x) = 3x^3 - 6x^2 + 2x - 7
+            f'(x) = 9x^2 - 12x + 2
+            Hint: Use the power rule for derivatives: n*x^(n-1). Each term may be calculated separately and combined at the end.
+          Evaluate the integral of ∫(2x^2 - 3x + 4) dx.
+            The integral is (2/3)x^3 - (3/2)x^2 + 4x + C, where C is the constant of integration
+            Hint: Use the power rule for integrals: (1/(n+1))*x^(n+1). Each term may be calculated separately and combined at the end.
+
+
+
+
+
+//Hard - University
+//Question Types: Calculus, Linear Algebra, differential Equation
+Calculus: Find the derivative of f(x) = 3x^2 - 6x +2
+            f'(x) = 6x - 6
+            Hint: Use the power rule for derivatives: n*x^(n-1). Each term may be calculated separately and combined at the end.
+          Find the derivative of f(x) = e^x + 2x^2
+            f'(x) = e^x + 4x
+            Hint: The derivative of e^x is e^x. For 2x^2 use the power rule where the derivative of ax^n is nax^(n-1)
+          Determine the limit as x approaches infinity of (e^x) / (x^2)
+            The limit is 0
+            Hint: Use L'Hospital's rule.
+
+Linear Algebra = Find the determinant of a 3x3 matrix
+                    | 2  0  1 |
+                    | 3 -1  2 |
+                    | 1  2  0 |
+                    = -1
+                    Hint: Multiply the top left to bottom right diagonal and the top right to bottom left diagonal/ Subtract the second diagonal from the first.
+                 Solve a system of linear equations
+                    2x + 3y - z = 5
+                      Hint: Begin by isolating one variable, for example, express z in terms of x and y, then substitute into other equations for elimination.
+                    3x + y + 2z = 2
+                      Hint: Begin by isolating one variable, for example, express z in terms of x and y, then substitute into other equations for elimination.
+                    x - 2y + 3z = 7
+                      Hint: Begin by isolating one variable, for example, express z in terms of x and y, then substitute into other equations for elimination.
+                    x = -1, y = 2, z = -1
+                      Hint: Begin by isolating one variable, for example, express z in terms of x and y, then substitute into other equations for elimination.
+
+                 Find the rank of a 4x4 matrix
+                    | 1  2  0  3 |
+                    | 0  1  0  4 |
+                    | 0  3  0  2 |
+                    | 0  0  0  1 |
+                    = 3
+                    Hint: Use row reduction to get the matrix in row-echelon form and count the number of non-zero rows.
+                 Determine if the vectors (1, 2, 3) and (2, 4, 6) are linearly independent
+                    These vectors are linearly dependent since one is a scalar multiple of the other
+                    Hint: Check if one vector is a scalar multiple of the other.
+                 Find the eigenvalues and eigenvectors of the following 2x2 matrix
+                    | 3  1 |
+                    | 1  3 |
+                    The eigenvalues are λ₁ = 4 and λ₂ = 2, and their corresponding eigenvectors are [1, 1] and [1, -1], respectively
+                    Hint: Find the eigenvalues by solving: (det(A−λI)=0). Substitute each eigenvalue into (A−λI) to find the corresponding eigenvectors.
+                 Find the eigenvalues of the following 3x3 matrix
+                    | 2  1  0 |
+                    | 1  3  1 |
+                    | 0  1  2 |
+                    The eigenvalues are λ₁ = 1, λ₂ = 3, λ₃ = 3, and their corresponding eigenvectors are :
+                        For λ₁ = 1: Eigenvector v₁ = [1, -1, 0]
+                        For λ₂ = 3: Eigenvector v₂ = [1, 1, -1]
+                        For λ₃ = 3: Eigenvector v₃₁ = [1, 0, -1] and Eigenvector v₃₂ = [0, 1, -1]
+                     Hint: Find the eigenvalues by solving: (det(A−λI)=0). Substitute each eigenvalue into (A−λI) to find the corresponding eigenvectors.
+
+Differential Equation: Solve the first-order linear differential equation: dy/dx + 2y = 4
+                          y = 2 + Ce^(-2x), where C is a constant
+                          Hint: Substitute y = uv, factor the parts involving v and use u to find v. Substitute u and v into y=uv to get the solution.
+                       Solve the second-order differential equation: d^2y/dx^2 - 4dy/dx + 4y = 0.
+                          The solution is y = (C1 + C2x)e^(2x), where C1 and C2 are constants.
+                          Hint: Substitute y=e^(rx)  into the differential equation and solve for r to find characteristic roots.
+                       Find the particular solution to the differential equation: dy/dx = 2x with the initial condition y(0) = 3.
+                          The solution is y = x^2 + 3.
+                          Hint: Integrate both sides with respect to x and use the initial condition to determine the value of constant C.
+                          
+                       Solve the differential equation: d^2y/dx^2 - 9y = 0.
+                          The solution is y=c1e^(3x)+c2e^(-3x)
+                          Hint: Find the characteristic equation, solve for r and construct the solution.
+                       Find the general solution to the differential equation: dy/dx + y = x.
+                          The solution is ye^x = xe^x-e^x+C, where C is a constant.
+                          Hint: Multiply both sides by e^x, rewrite the result and integrate both sides with respect to x.
+
+
+
+
+
+
+
+
+

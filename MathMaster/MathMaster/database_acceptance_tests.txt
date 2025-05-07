@@ -1,0 +1,1599 @@
+[mmasood9@compute a_4]$ sqlite3 GameQuestions.db;
+SQLite version 3.40.1 2022-12-28 14:03:47
+Enter ".help" for usage hints.
+sqlite> .read GameQuestions_dbAcceptanceTests_script.sql
+question_number = 1
+       question = 3 + 5
+
+question_number = 2
+       question = 27 + 48
+
+question_number = 3
+       question = 12 + 8 + 5
+
+question_number = 4
+       question = 356 + 219
+
+question_number = 5
+       question = 4.6 + 2.73
+
+question_number = 6
+       question = 3,456,789 + 2,987,654
+
+question_number = 7
+       question = 9 - 3
+
+question_number = 8
+       question = 45 - 18
+
+question_number = 9
+       question = 100 - 27
+
+question_number = 10
+       question = 748 - 392
+
+question_number = 11
+       question = 8.25 - 3.68
+
+question_number = 12
+       question = 8,765 - 3,219
+
+question_number = 13
+       question = 6 x 7
+
+question_number = 14
+       question = 4 x 8
+
+question_number = 15
+       question = 9 x 0
+
+question_number = 16
+       question = 324 x 17
+
+question_number = 17
+       question = 3.5 x 2.5
+
+question_number = 18
+       question = 789 x 456
+
+question_number = 19
+       question = 5.2 x 14
+
+question_number = 20
+       question = 63 / 7
+
+question_number = 21
+       question = 36 / 3
+
+question_number = 22
+       question = 27 / 1
+
+question_number = 23
+       question = 294 / 7
+
+question_number = 24
+       question = 8.4 / 2
+
+question_number = 25
+       question = 5.6 / 0.4
+
+question_number = 26
+       question = 1/4 + 3/8
+
+question_number = 27
+       question = 5.25 + 1/3
+
+question_number = 28
+       question = 5 3/4 - 2 1/2
+
+question_number = 29
+       question = 12.5 - 1/3
+
+question_number = 30
+       question = 2/3 x 3/4
+
+question_number = 31
+       question = 3/5 / 1/4
+
+question_number = 32
+       question = 6378/42
+
+question_number = 33
+       question = Find the area of right angle triange with a base of 6 units and a height of 8 units
+
+question_number = 34
+       question = Find the area of a rectangle with a length of 10 units and a width of 4 units
+
+question_number = 35
+       question = Calculate the volume of a sphere with a radius of 5 units to the nearest tenths
+
+question_number = 36
+       question = Solve for x: 2x - 5 = 11
+
+question_number = 37
+       question = Solve for x: 3x + 5 = 17
+
+question_number = 38
+       question = Factor the expression: x^2 - 4
+
+question_number = 39
+       question = Simplify the expression: (2x^2)(3x^3)
+
+question_number = 40
+       question = Solve the equation: 2(2x - 3) = 10
+
+question_number = 41
+       question = Find the value of x: |x - 7| = 9
+
+question_number = 42
+       question = Solve x^2 - 5x + 6 = 0 
+
+question_number = 43
+       question = Solve 2x^2 - 7x +3 = 0
+
+question_number = 44
+       question = Solve x^2 - 9 = 0
+
+question_number = 45
+       question = Find sin30
+
+question_number = 46
+       question = Find cos45
+
+question_number = 47
+       question = Find sin60
+
+question_number = 48
+       question = Find tan 45
+
+question_number = 49
+       question = Find cos60
+
+question_number = 50
+       question = Find tan60 + cot30
+
+question_number = 51
+       question = Find sin45 + cos45
+
+question_number = 52
+       question = Find the derivative of f(x) = 3x^2 - 4x + 2
+
+question_number = 53
+       question = Find the derivative of f(x) = 3x^3 - 6x^2 + 2x - 7
+
+question_number = 54
+       question = Evaluate the integral of ∫(2x^2 - 3x + 4) dx
+
+question_number = 60
+       question = Find the derivative of f(x) = 3x^2 - 6x +2
+
+question_number = 61
+       question = Find the derivative of f(x) = e^x + 2x^2
+
+question_number = 62
+       question = Determine the limit as x approaches infinity of (e^x) / (x^2)
+
+question_number = 63
+       question = Find the determinant of a 3x3 matrix
+                    | 2  0  1 |
+                    | 3 -1  2 |
+                    | 1  2  0 |
+
+question_number = 64
+       question = Solve a system of linear equations
+                    2x + 3y - z = 5
+                    3x + y + 2z = 2
+                    x - 2y + 3z = 7
+
+question_number = 65
+       question = Find the rank of a 4x4 matrix
+                    | 1  2  0  3 |
+                    | 0  1  0  4 |
+                    | 0  3  0  2 |
+                    | 0  0  0  1 |
+
+question_number = 66
+       question = Determine if the vectors (1, 2, 3) and (2, 4, 6) are linearly independent.
+
+question_number = 67
+       question = Find the eigenvalues and eigenvectors of the following 2x2 matrix
+                    | 3  1 |
+                    | 1  3 |
+
+question_number = 68
+       question = Find the eigenvalues of the following 3x3 matrix
+                    | 2  1  0 |
+                    | 1  3  1 |
+                    | 0  1  2 |
+
+question_number = 69
+       question = Solve the first-order linear differential equation: dy/dx + 2y = 4
+
+question_number = 70
+       question = Solve the second-order differential equation: d^2y/dx^2 - 4dy/dx + 4y = 0
+
+question_number = 71
+       question = Find the particular solution to the differential equation: dy/dx = 2x with the initial condition y(0) = 3
+
+question_number = 72
+       question = Solve the differential equation: d^2y/dx^2 - 9y = 0
+
+question_number = 73
+       question = Find the general solution to the differential equation: dy/dx + y = x
+question_number = 1
+       question = 3 + 5
+       solution = 8
+
+question_number = 2
+       question = 27 + 48
+       solution = 75
+
+question_number = 3
+       question = 12 + 8 + 5
+       solution = 25
+
+question_number = 4
+       question = 356 + 219
+       solution = 575
+
+question_number = 5
+       question = 4.6 + 2.73
+       solution = 7.33
+
+question_number = 6
+       question = 3,456,789 + 2,987,654
+       solution = 6444443
+
+question_number = 7
+       question = 9 - 3
+       solution = 6
+
+question_number = 8
+       question = 45 - 18
+       solution = 27
+
+question_number = 9
+       question = 100 - 27
+       solution = 73
+
+question_number = 10
+       question = 748 - 392
+       solution = 356
+
+question_number = 11
+       question = 8.25 - 3.68
+       solution = 4.57
+
+question_number = 12
+       question = 8,765 - 3,219
+       solution = 5546
+
+question_number = 13
+       question = 6 x 7
+       solution = 42
+
+question_number = 14
+       question = 4 x 8
+       solution = 32
+
+question_number = 15
+       question = 9 x 0
+       solution = 0
+
+question_number = 16
+       question = 324 x 17
+       solution = 5508
+
+question_number = 17
+       question = 3.5 x 2.5
+       solution = 8.75
+
+question_number = 18
+       question = 789 x 456
+       solution = 359784
+
+question_number = 19
+       question = 5.2 x 14
+       solution = 72.8
+
+question_number = 20
+       question = 63 / 7
+       solution = 9
+
+question_number = 21
+       question = 36 / 3
+       solution = 12
+
+question_number = 22
+       question = 27 / 1
+       solution = 27
+
+question_number = 23
+       question = 294 / 7
+       solution = 42
+
+question_number = 24
+       question = 8.4 / 2
+       solution = 4.2
+
+question_number = 25
+       question = 5.6 / 0.4
+       solution = 14
+
+question_number = 26
+       question = 1/4 + 3/8
+       solution = 5/8
+
+question_number = 27
+       question = 5.25 + 1/3
+       solution = 5 7/12
+
+question_number = 28
+       question = 5 3/4 - 2 1/2
+       solution = 3 1/4
+
+question_number = 29
+       question = 12.5 - 1/3
+       solution = 12 1/6
+
+question_number = 30
+       question = 2/3 x 3/4
+       solution = 1/2
+
+question_number = 31
+       question = 3/5 / 1/4
+       solution = 4/5
+
+question_number = 32
+       question = 6378/42
+       solution = 36 6/7
+
+question_number = 33
+       question = Find the area of right angle triange with a base of 6 units and a height of 8 units
+       solution = 24 square units
+
+question_number = 34
+       question = Find the area of a rectangle with a length of 10 units and a width of 4 units
+       solution = 40 square units
+
+question_number = 35
+       question = Calculate the volume of a sphere with a radius of 5 units to the nearest tenths
+       solution = 523.6 cubic units
+
+question_number = 36
+       question = Solve for x: 2x - 5 = 11
+       solution = x = 8
+
+question_number = 37
+       question = Solve for x: 3x + 5 = 17
+       solution = x = 4
+
+question_number = 38
+       question = Factor the expression: x^2 - 4
+       solution = (x - 2)(x + 2)
+
+question_number = 39
+       question = Simplify the expression: (2x^2)(3x^3)
+       solution = 6x^5
+
+question_number = 40
+       question = Solve the equation: 2(2x - 3) = 10
+       solution = x = 4
+
+question_number = 41
+       question = Find the value of x: |x - 7| = 9
+       solution = x = -2
+
+question_number = 42
+       question = Solve x^2 - 5x + 6 = 0 
+       solution = x = 2 or x = 3
+
+question_number = 43
+       question = Solve 2x^2 - 7x +3 = 0
+       solution = x = 1/2 or x = 3
+
+question_number = 44
+       question = Solve x^2 - 9 = 0
+       solution = x = 3 or x = -3
+
+question_number = 45
+       question = Find sin30
+       solution = 1/2
+
+question_number = 46
+       question = Find cos45
+       solution = √2/2
+
+question_number = 47
+       question = Find sin60
+       solution = √3/2
+
+question_number = 48
+       question = Find tan 45
+       solution = 1
+
+question_number = 49
+       question = Find cos60
+       solution = 1/2
+
+question_number = 50
+       question = Find tan60 + cot30
+       solution = 2√3
+
+question_number = 51
+       question = Find sin45 + cos45
+       solution = √2
+
+question_number = 52
+       question = Find the derivative of f(x) = 3x^2 - 4x + 2
+       solution = 9x^2 - 4
+
+question_number = 53
+       question = Find the derivative of f(x) = 3x^3 - 6x^2 + 2x - 7
+       solution = 9x^2 - 12x + 2
+
+question_number = 54
+       question = Evaluate the integral of ∫(2x^2 - 3x + 4) dx
+       solution = (2/3)x^3 - (3/2)x^2 + 4x + C, where C is the constant of integration
+
+question_number = 60
+       question = Find the derivative of f(x) = 3x^2 - 6x +2
+       solution = 6x - 6
+
+question_number = 61
+       question = Find the derivative of f(x) = e^x + 2x^2
+       solution = e^x + 4x
+
+question_number = 62
+       question = Determine the limit as x approaches infinity of (e^x) / (x^2)
+       solution =  The limit is 0
+
+question_number = 63
+       question = Find the determinant of a 3x3 matrix
+                    | 2  0  1 |
+                    | 3 -1  2 |
+                    | 1  2  0 |
+       solution = -1
+
+question_number = 64
+       question = Solve a system of linear equations
+                    2x + 3y - z = 5
+                    3x + y + 2z = 2
+                    x - 2y + 3z = 7
+       solution = x = -1, y = 2, z = -1
+
+question_number = 65
+       question = Find the rank of a 4x4 matrix
+                    | 1  2  0  3 |
+                    | 0  1  0  4 |
+                    | 0  3  0  2 |
+                    | 0  0  0  1 |
+       solution = 3
+
+question_number = 66
+       question = Determine if the vectors (1, 2, 3) and (2, 4, 6) are linearly independent.
+       solution = These vectors are linearly dependent since one is a scalar multiple of the other.
+
+question_number = 67
+       question = Find the eigenvalues and eigenvectors of the following 2x2 matrix
+                    | 3  1 |
+                    | 1  3 |
+       solution = The eigenvalues are λ₁ = 4 and λ₂ = 2, and their corresponding eigenvectors are [1, 1] and [1, -1]
+
+question_number = 68
+       question = Find the eigenvalues of the following 3x3 matrix
+                    | 2  1  0 |
+                    | 1  3  1 |
+                    | 0  1  2 |
+       solution = The eigenvalues are λ₁ = 1, λ₂ = 3, λ₃ = 3
+
+question_number = 69
+       question = Solve the first-order linear differential equation: dy/dx + 2y = 4
+       solution = y = 2 + Ce^(-2x), where C is a constant
+
+question_number = 70
+       question = Solve the second-order differential equation: d^2y/dx^2 - 4dy/dx + 4y = 0
+       solution = y = (C1 + C2x)e^(2x), where C1 and C2 are constants
+
+question_number = 71
+       question = Find the particular solution to the differential equation: dy/dx = 2x with the initial condition y(0) = 3
+       solution = y = x^2 + 3
+
+question_number = 72
+       question = Solve the differential equation: d^2y/dx^2 - 9y = 0
+       solution = y=c1e^(3x)+c2e^(-3x)
+
+question_number = 73
+       question = Find the general solution to the differential equation: dy/dx + y = x
+       solution = ye^x = xe^x-e^x+C, where C is a constant.
+
+question_number = 100
+       question = TEST QUESTION: 1 + 1
+       solution = 2
+question_number = 1
+       question = 3 + 5
+  question_hint = Add the numbers together using finger counting
+
+question_number = 2
+       question = 27 + 48
+  question_hint = Add the tens and ones separately, then combine: 20+40, 7+8, then combine to get the answer.
+
+question_number = 3
+       question = 12 + 8 + 5
+  question_hint = Add each number one by one: 12+8, then add 5 to that result.
+
+question_number = 4
+       question = 356 + 219
+  question_hint = Add the hundreds, tens, and ones separately, then combine: 300+200, 50+10, 6+9, then combine to get the answer.
+
+question_number = 5
+       question = 4.6 + 2.73
+  question_hint = Add the whole numbers and decimals separately, then combine that result. Simply add decimals as you would with whole numbers.
+
+question_number = 6
+       question = 3,456,789 + 2,987,654
+  question_hint = Add each digit separately, starting from the right.
+
+question_number = 7
+       question = 9 - 3
+  question_hint = Remove 3 from 9. Use finger counting if necessary.
+
+question_number = 8
+       question = 45 - 18
+  question_hint = Subtract the ones then tens digits.
+
+question_number = 9
+       question = 100 - 27
+  question_hint = First remove 20 from 100, then remove 7 from that result.
+
+question_number = 10
+       question = 748 - 392
+  question_hint = Subtract each digit separately, starting from the right.
+
+question_number = 11
+       question = 8.25 - 3.68
+  question_hint = Subtract the whole numbers and decimals separately, then combine that result. Simply subtract decimals as you would with whole numbers.
+
+question_number = 12
+       question = 8,765 - 3,219
+  question_hint = Subtract each digit separately, starting from the right.
+
+question_number = 13
+       question = 6 x 7
+  question_hint = Add 7 six times.
+
+question_number = 14
+       question = 4 x 8
+  question_hint = Add 8 four times.
+
+question_number = 15
+       question = 9 x 0
+  question_hint = Any number multiplied by 0 is ....?
+
+question_number = 16
+       question = 324 x 17
+  question_hint = Multiply each digit separately, starting from the right.
+
+question_number = 17
+       question = 3.5 x 2.5
+  question_hint = Multiply the whole numbers and decimals separately, then combine that result. Simply multiply decimals as you would with whole numbers.
+
+question_number = 18
+       question = 789 x 456
+  question_hint = Multiply each digit separately, starting from the right.
+
+question_number = 19
+       question = 5.2 x 14
+  question_hint = Multiply the whole numbers and decimals separately, then combine that result. Simply multiply decimals as you would with whole numbers.
+
+question_number = 20
+       question = 63 / 7
+  question_hint = How many times can 7 go into 63?
+
+question_number = 21
+       question = 36 / 3
+  question_hint = Divide 3 from the tens digit, 3, then ones digit, 6.
+
+question_number = 22
+       question = 27 / 1
+  question_hint = Any number divided by 1 is ....?
+
+question_number = 23
+       question = 294 / 7
+  question_hint = Divide 29 by 7. Take that quotient as the next tens digit and 4 as the ones digit and divide by 7.
+
+question_number = 24
+       question = 8.4 / 2
+  question_hint = Divide 8 by 4. Divide decimals as you would with whole numbers. Combine the whole number and decimal result.
+
+question_number = 25
+       question = 5.6 / 0.4
+  question_hint = Divide decimals as you would with whole numbers. Keep in mind the decimal places for the final result.
+
+question_number = 26
+       question = 1/4 + 3/8
+  question_hint = Find a common denominator and add.
+
+question_number = 27
+       question = 5.25 + 1/3
+  question_hint = Add the whole numbers and fractions separately and combine the answers.
+
+question_number = 28
+       question = 5 3/4 - 2 1/2
+  question_hint = Subtract the whole numbers and fractions separately and combine the answers.
+
+question_number = 29
+       question = 12.5 - 1/3
+  question_hint = Convert the decimal to a fraction, or fraction to a decimal to subtract.
+
+question_number = 30
+       question = 2/3 x 3/4
+  question_hint = Multiply the numerator and denominators separately.
+
+question_number = 31
+       question = 3/5 / 1/4
+  question_hint = Invert one of the fractions and multiply that with the other fraction.
+
+question_number = 32
+       question = 6378/42
+  question_hint = How many times does 42 go into 6,378? If it does not divide cleanly, use the quotient for the fraction.
+
+question_number = 33
+       question = Find the area of right angle triange with a base of 6 units and a height of 8 units
+  question_hint = Area of triangle is (1/2) * base * height. Base is 6 and height is 8.
+
+question_number = 34
+       question = Find the area of a rectangle with a length of 10 units and a width of 4 units
+  question_hint = Area of rectangle is length * width. Length is 10 and width is 4.
+
+question_number = 35
+       question = Calculate the volume of a sphere with a radius of 5 units to the nearest tenths
+  question_hint = Volume of a sphere is (4/3)*pi*r^3. r = radius is 5, pi is rounded to 3.14.
+
+question_number = 36
+       question = Solve for x: 2x - 5 = 11
+  question_hint = Add 5 to both sides and divide by 2.
+
+question_number = 37
+       question = Solve for x: 3x + 5 = 17
+  question_hint = Subtract 5 from both sides and divide by 3.
+
+question_number = 38
+       question = Factor the expression: x^2 - 4
+  question_hint = Quadratic formula is (-b±√(b²-4ac))/(2a). a is 1, b is 0, c is -4.
+
+question_number = 39
+       question = Simplify the expression: (2x^2)(3x^3)
+  question_hint = Multiply the whole numbers and add the exponent values.
+
+question_number = 40
+       question = Solve the equation: 2(2x - 3) = 10
+  question_hint = Divide both sides by 2, add 3, then divide by 2 again.
+
+question_number = 41
+       question = Find the value of x: |x - 7| = 9
+  question_hint = |-9| is 9. -7 and what results in -9?
+
+question_number = 42
+       question = Solve x^2 - 5x + 6 = 0 
+  question_hint = (-b±√(b²-4ac))/(2a). A is 1, b is -5, c is 6.
+
+question_number = 43
+       question = Solve 2x^2 - 7x +3 = 0
+  question_hint = Quadratic formula is (-b±√(b²-4ac))/(2a). a is 2, b is -7, c is 3.
+
+question_number = 44
+       question = Solve x^2 - 9 = 0
+  question_hint = Quadratic formula is (-b±√(b²-4ac))/(2a). a is 1, b is 0, c is -9.
+
+question_number = 45
+       question = Find sin30
+  question_hint = sin30 = cos60. sin 0 is 0, sin 90 is 1.
+
+question_number = 46
+       question = Find cos45
+  question_hint = cos45 = sin45. cos 0 is 1, cos 90 is 0.
+
+question_number = 47
+       question = Find sin60
+  question_hint = sin60 = cos30. sin 0 is 0, sin 90 is 1.
+
+question_number = 48
+       question = Find tan 45
+  question_hint = tan45 = sin0 = cos90.
+
+question_number = 49
+       question = Find cos60
+  question_hint = cos60 = sin30.  cos 0 is 1, cos 90 is 0.
+
+question_number = 50
+       question = Find tan60 + cot30
+  question_hint = Find tan60 then cot30 and add cot30 = cosx/sinx.
+
+question_number = 51
+       question = Find sin45 + cos45
+  question_hint = sin45 = cos45
+
+question_number = 52
+       question = Find the derivative of f(x) = 3x^2 - 4x + 2
+  question_hint = Use the power rule for derivatives: n*x^(n-1). Each term may be calculated separately and combined at the end.
+
+question_number = 53
+       question = Find the derivative of f(x) = 3x^3 - 6x^2 + 2x - 7
+  question_hint = Use the power rule for derivatives: n*x^(n-1). Each term may be calculated separately and combined at the end.
+
+question_number = 54
+       question = Evaluate the integral of ∫(2x^2 - 3x + 4) dx
+  question_hint = Use the power rule for integrals: (1/(n+1))*x^(n+1). Each term may be calculated separately and combined at the end.
+
+question_number = 60
+       question = Find the derivative of f(x) = 3x^2 - 6x +2
+  question_hint = Use the power rule for derivatives: n*x^(n-1). Each term may be calculated separately and combined at the end.
+
+question_number = 61
+       question = Find the derivative of f(x) = e^x + 2x^2
+  question_hint = Use the power rule for derivatives: n*x^(n-1). Each term may be calculated separately and combined at the end.
+
+question_number = 62
+       question = Determine the limit as x approaches infinity of (e^x) / (x^2)
+  question_hint = Use the power rule for integrals: (1/(n+1))*x^(n+1). Each term may be calculated separately and combined at the end.
+
+question_number = 63
+       question = Find the determinant of a 3x3 matrix
+                    | 2  0  1 |
+                    | 3 -1  2 |
+                    | 1  2  0 |
+  question_hint = Multiply the top left to bottom right diagonal and the top right to bottom left diagonal/ Subtract the second diagonal from the first.
+
+question_number = 64
+       question = Solve a system of linear equations
+                    2x + 3y - z = 5
+                    3x + y + 2z = 2
+                    x - 2y + 3z = 7
+  question_hint = Begin by isolating one variable, for example, express z in terms of x and y, then substitute into other equations for elimination.
+
+question_number = 65
+       question = Find the rank of a 4x4 matrix
+                    | 1  2  0  3 |
+                    | 0  1  0  4 |
+                    | 0  3  0  2 |
+                    | 0  0  0  1 |
+  question_hint = Use row reduction to get the matrix in row-echelon form and count the number of non-zero rows.
+
+question_number = 66
+       question = Determine if the vectors (1, 2, 3) and (2, 4, 6) are linearly independent.
+  question_hint = Check if one vector is a scalar multiple of the other.
+
+question_number = 67
+       question = Find the eigenvalues and eigenvectors of the following 2x2 matrix
+                    | 3  1 |
+                    | 1  3 |
+  question_hint = Find the eigenvalues by solving: (det(A−λI)=0). Substitute each eigenvalue into (A−λI) to find the corresponding eigenvectors.
+
+question_number = 68
+       question = Find the eigenvalues of the following 3x3 matrix
+                    | 2  1  0 |
+                    | 1  3  1 |
+                    | 0  1  2 |
+  question_hint = Find the eigenvalues by solving: (det(A−λI)=0). Substitute each eigenvalue into (A−λI) to find the corresponding eigenvectors.
+
+question_number = 69
+       question = Solve the first-order linear differential equation: dy/dx + 2y = 4
+  question_hint = Substitute y = uv, factor the parts involving v and use u to find v. Substitute u and v into y=uv to get the solution.
+
+question_number = 70
+       question = Solve the second-order differential equation: d^2y/dx^2 - 4dy/dx + 4y = 0
+  question_hint = Substitute y=e^(rx)  into the differential equation and solve for r to find characteristic roots.
+
+question_number = 71
+       question = Find the particular solution to the differential equation: dy/dx = 2x with the initial condition y(0) = 3
+  question_hint = Integrate both sides with respect to x and use the initial condition to determine the value of constant C.
+
+question_number = 72
+       question = Solve the differential equation: d^2y/dx^2 - 9y = 0
+  question_hint = Find the characteristic equation, solve for r and construct the solution.
+
+question_number = 73
+       question = Find the general solution to the differential equation: dy/dx + y = x
+  question_hint = Multiply both sides by e^x, rewrite the result and integrate both sides with respect to x.
+
+question_number = 100
+       question = TEST QUESTION: 1 + 1
+  question_hint = TEST HINT: 0101
+     question = 3 + 5
+question_hint = Add the numbers together using finger counting
+
+     question = 27 + 48
+question_hint = Add the tens and ones separately, then combine: 20+40, 7+8, then combine to get the answer.
+
+     question = 12 + 8 + 5
+question_hint = Add each number one by one: 12+8, then add 5 to that result.
+
+     question = 356 + 219
+question_hint = Add the hundreds, tens, and ones separately, then combine: 300+200, 50+10, 6+9, then combine to get the answer.
+
+     question = 4.6 + 2.73
+question_hint = Add the whole numbers and decimals separately, then combine that result. Simply add decimals as you would with whole numbers.
+
+     question = 3,456,789 + 2,987,654
+question_hint = Add each digit separately, starting from the right.
+
+     question = 9 - 3
+question_hint = Remove 3 from 9. Use finger counting if necessary.
+
+     question = 45 - 18
+question_hint = Subtract the ones then tens digits.
+
+     question = 100 - 27
+question_hint = First remove 20 from 100, then remove 7 from that result.
+
+     question = 748 - 392
+question_hint = Subtract each digit separately, starting from the right.
+
+     question = 8.25 - 3.68
+question_hint = Subtract the whole numbers and decimals separately, then combine that result. Simply subtract decimals as you would with whole numbers.
+
+     question = 8,765 - 3,219
+question_hint = Subtract each digit separately, starting from the right.
+
+     question = 6 x 7
+question_hint = Add 7 six times.
+
+     question = 4 x 8
+question_hint = Add 8 four times.
+
+     question = 9 x 0
+question_hint = Any number multiplied by 0 is ....?
+
+     question = 324 x 17
+question_hint = Multiply each digit separately, starting from the right.
+
+     question = 3.5 x 2.5
+question_hint = Multiply the whole numbers and decimals separately, then combine that result. Simply multiply decimals as you would with whole numbers.
+
+     question = 789 x 456
+question_hint = Multiply each digit separately, starting from the right.
+
+     question = 5.2 x 14
+question_hint = Multiply the whole numbers and decimals separately, then combine that result. Simply multiply decimals as you would with whole numbers.
+
+     question = 63 / 7
+question_hint = How many times can 7 go into 63?
+
+     question = 36 / 3
+question_hint = Divide 3 from the tens digit, 3, then ones digit, 6.
+
+     question = 27 / 1
+question_hint = Any number divided by 1 is ....?
+
+     question = 294 / 7
+question_hint = Divide 29 by 7. Take that quotient as the next tens digit and 4 as the ones digit and divide by 7.
+
+     question = 8.4 / 2
+question_hint = Divide 8 by 4. Divide decimals as you would with whole numbers. Combine the whole number and decimal result.
+
+     question = 5.6 / 0.4
+question_hint = Divide decimals as you would with whole numbers. Keep in mind the decimal places for the final result.
+
+     question = 1/4 + 3/8
+question_hint = Find a common denominator and add.
+
+     question = 5.25 + 1/3
+question_hint = Add the whole numbers and fractions separately and combine the answers.
+
+     question = 5 3/4 - 2 1/2
+question_hint = Subtract the whole numbers and fractions separately and combine the answers.
+
+     question = 12.5 - 1/3
+question_hint = Convert the decimal to a fraction, or fraction to a decimal to subtract.
+
+     question = 2/3 x 3/4
+question_hint = Multiply the numerator and denominators separately.
+
+     question = 3/5 / 1/4
+question_hint = Invert one of the fractions and multiply that with the other fraction.
+
+     question = 6378/42
+question_hint = How many times does 42 go into 6,378? If it does not divide cleanly, use the quotient for the fraction.
+
+     question = Find the area of right angle triange with a base of 6 units and a height of 8 units
+question_hint = Area of triangle is (1/2) * base * height. Base is 6 and height is 8.
+
+     question = Find the area of a rectangle with a length of 10 units and a width of 4 units
+question_hint = Area of rectangle is length * width. Length is 10 and width is 4.
+
+     question = Calculate the volume of a sphere with a radius of 5 units to the nearest tenths
+question_hint = Volume of a sphere is (4/3)*pi*r^3. r = radius is 5, pi is rounded to 3.14.
+
+     question = Solve for x: 2x - 5 = 11
+question_hint = Add 5 to both sides and divide by 2.
+
+     question = Solve for x: 3x + 5 = 17
+question_hint = Subtract 5 from both sides and divide by 3.
+
+     question = Factor the expression: x^2 - 4
+question_hint = Quadratic formula is (-b±√(b²-4ac))/(2a). a is 1, b is 0, c is -4.
+
+     question = Simplify the expression: (2x^2)(3x^3)
+question_hint = Multiply the whole numbers and add the exponent values.
+
+     question = Solve the equation: 2(2x - 3) = 10
+question_hint = Divide both sides by 2, add 3, then divide by 2 again.
+
+     question = Find the value of x: |x - 7| = 9
+question_hint = |-9| is 9. -7 and what results in -9?
+
+     question = Solve x^2 - 5x + 6 = 0 
+question_hint = (-b±√(b²-4ac))/(2a). A is 1, b is -5, c is 6.
+
+     question = Solve 2x^2 - 7x +3 = 0
+question_hint = Quadratic formula is (-b±√(b²-4ac))/(2a). a is 2, b is -7, c is 3.
+
+     question = Solve x^2 - 9 = 0
+question_hint = Quadratic formula is (-b±√(b²-4ac))/(2a). a is 1, b is 0, c is -9.
+
+     question = Find sin30
+question_hint = sin30 = cos60. sin 0 is 0, sin 90 is 1.
+
+     question = Find cos45
+question_hint = cos45 = sin45. cos 0 is 1, cos 90 is 0.
+
+     question = Find sin60
+question_hint = sin60 = cos30. sin 0 is 0, sin 90 is 1.
+
+     question = Find tan 45
+question_hint = tan45 = sin0 = cos90.
+
+     question = Find cos60
+question_hint = cos60 = sin30.  cos 0 is 1, cos 90 is 0.
+
+     question = Find tan60 + cot30
+question_hint = Find tan60 then cot30 and add cot30 = cosx/sinx.
+
+     question = Find sin45 + cos45
+question_hint = sin45 = cos45
+
+     question = Find the derivative of f(x) = 3x^2 - 4x + 2
+question_hint = Use the power rule for derivatives: n*x^(n-1). Each term may be calculated separately and combined at the end.
+
+     question = Find the derivative of f(x) = 3x^3 - 6x^2 + 2x - 7
+question_hint = Use the power rule for derivatives: n*x^(n-1). Each term may be calculated separately and combined at the end.
+
+     question = Evaluate the integral of ∫(2x^2 - 3x + 4) dx
+question_hint = Use the power rule for integrals: (1/(n+1))*x^(n+1). Each term may be calculated separately and combined at the end.
+
+     question = Find the derivative of f(x) = 3x^2 - 6x +2
+question_hint = Use the power rule for derivatives: n*x^(n-1). Each term may be calculated separately and combined at the end.
+
+     question = Find the derivative of f(x) = e^x + 2x^2
+question_hint = Use the power rule for derivatives: n*x^(n-1). Each term may be calculated separately and combined at the end.
+
+     question = Determine the limit as x approaches infinity of (e^x) / (x^2)
+question_hint = Use the power rule for integrals: (1/(n+1))*x^(n+1). Each term may be calculated separately and combined at the end.
+
+     question = Find the determinant of a 3x3 matrix
+                    | 2  0  1 |
+                    | 3 -1  2 |
+                    | 1  2  0 |
+question_hint = Multiply the top left to bottom right diagonal and the top right to bottom left diagonal/ Subtract the second diagonal from the first.
+
+     question = Solve a system of linear equations
+                    2x + 3y - z = 5
+                    3x + y + 2z = 2
+                    x - 2y + 3z = 7
+question_hint = Begin by isolating one variable, for example, express z in terms of x and y, then substitute into other equations for elimination.
+
+     question = Find the rank of a 4x4 matrix
+                    | 1  2  0  3 |
+                    | 0  1  0  4 |
+                    | 0  3  0  2 |
+                    | 0  0  0  1 |
+question_hint = Use row reduction to get the matrix in row-echelon form and count the number of non-zero rows.
+
+     question = Determine if the vectors (1, 2, 3) and (2, 4, 6) are linearly independent.
+question_hint = Check if one vector is a scalar multiple of the other.
+
+     question = Find the eigenvalues and eigenvectors of the following 2x2 matrix
+                    | 3  1 |
+                    | 1  3 |
+question_hint = Find the eigenvalues by solving: (det(A−λI)=0). Substitute each eigenvalue into (A−λI) to find the corresponding eigenvectors.
+
+     question = Find the eigenvalues of the following 3x3 matrix
+                    | 2  1  0 |
+                    | 1  3  1 |
+                    | 0  1  2 |
+question_hint = Find the eigenvalues by solving: (det(A−λI)=0). Substitute each eigenvalue into (A−λI) to find the corresponding eigenvectors.
+
+     question = Solve the first-order linear differential equation: dy/dx + 2y = 4
+question_hint = Substitute y = uv, factor the parts involving v and use u to find v. Substitute u and v into y=uv to get the solution.
+
+     question = Solve the second-order differential equation: d^2y/dx^2 - 4dy/dx + 4y = 0
+question_hint = Substitute y=e^(rx)  into the differential equation and solve for r to find characteristic roots.
+
+     question = Find the particular solution to the differential equation: dy/dx = 2x with the initial condition y(0) = 3
+question_hint = Integrate both sides with respect to x and use the initial condition to determine the value of constant C.
+
+     question = Solve the differential equation: d^2y/dx^2 - 9y = 0
+question_hint = Find the characteristic equation, solve for r and construct the solution.
+
+     question = Find the general solution to the differential equation: dy/dx + y = x
+question_hint = Multiply both sides by e^x, rewrite the result and integrate both sides with respect to x.
+
+     question = TEST QUESTION: 1 + 1
+question_hint = HINT UPDATE TEST IN PROGRESS
+question_number = 1
+       question = 3 + 5
+  question_hint = Add the numbers together using finger counting
+
+question_number = 2
+       question = 27 + 48
+  question_hint = Add the tens and ones separately, then combine: 20+40, 7+8, then combine to get the answer.
+
+question_number = 3
+       question = 12 + 8 + 5
+  question_hint = Add each number one by one: 12+8, then add 5 to that result.
+
+question_number = 4
+       question = 356 + 219
+  question_hint = Add the hundreds, tens, and ones separately, then combine: 300+200, 50+10, 6+9, then combine to get the answer.
+
+question_number = 5
+       question = 4.6 + 2.73
+  question_hint = Add the whole numbers and decimals separately, then combine that result. Simply add decimals as you would with whole numbers.
+
+question_number = 6
+       question = 3,456,789 + 2,987,654
+  question_hint = Add each digit separately, starting from the right.
+
+question_number = 7
+       question = 9 - 3
+  question_hint = Remove 3 from 9. Use finger counting if necessary.
+
+question_number = 8
+       question = 45 - 18
+  question_hint = Subtract the ones then tens digits.
+
+question_number = 9
+       question = 100 - 27
+  question_hint = First remove 20 from 100, then remove 7 from that result.
+
+question_number = 10
+       question = 748 - 392
+  question_hint = Subtract each digit separately, starting from the right.
+
+question_number = 11
+       question = 8.25 - 3.68
+  question_hint = Subtract the whole numbers and decimals separately, then combine that result. Simply subtract decimals as you would with whole numbers.
+
+question_number = 12
+       question = 8,765 - 3,219
+  question_hint = Subtract each digit separately, starting from the right.
+
+question_number = 13
+       question = 6 x 7
+  question_hint = Add 7 six times.
+
+question_number = 14
+       question = 4 x 8
+  question_hint = Add 8 four times.
+
+question_number = 15
+       question = 9 x 0
+  question_hint = Any number multiplied by 0 is ....?
+
+question_number = 16
+       question = 324 x 17
+  question_hint = Multiply each digit separately, starting from the right.
+
+question_number = 17
+       question = 3.5 x 2.5
+  question_hint = Multiply the whole numbers and decimals separately, then combine that result. Simply multiply decimals as you would with whole numbers.
+
+question_number = 18
+       question = 789 x 456
+  question_hint = Multiply each digit separately, starting from the right.
+
+question_number = 19
+       question = 5.2 x 14
+  question_hint = Multiply the whole numbers and decimals separately, then combine that result. Simply multiply decimals as you would with whole numbers.
+
+question_number = 20
+       question = 63 / 7
+  question_hint = How many times can 7 go into 63?
+
+question_number = 21
+       question = 36 / 3
+  question_hint = Divide 3 from the tens digit, 3, then ones digit, 6.
+
+question_number = 22
+       question = 27 / 1
+  question_hint = Any number divided by 1 is ....?
+
+question_number = 23
+       question = 294 / 7
+  question_hint = Divide 29 by 7. Take that quotient as the next tens digit and 4 as the ones digit and divide by 7.
+
+question_number = 24
+       question = 8.4 / 2
+  question_hint = Divide 8 by 4. Divide decimals as you would with whole numbers. Combine the whole number and decimal result.
+
+question_number = 25
+       question = 5.6 / 0.4
+  question_hint = Divide decimals as you would with whole numbers. Keep in mind the decimal places for the final result.
+
+question_number = 26
+       question = 1/4 + 3/8
+  question_hint = Find a common denominator and add.
+
+question_number = 27
+       question = 5.25 + 1/3
+  question_hint = Add the whole numbers and fractions separately and combine the answers.
+
+question_number = 28
+       question = 5 3/4 - 2 1/2
+  question_hint = Subtract the whole numbers and fractions separately and combine the answers.
+
+question_number = 29
+       question = 12.5 - 1/3
+  question_hint = Convert the decimal to a fraction, or fraction to a decimal to subtract.
+
+question_number = 30
+       question = 2/3 x 3/4
+  question_hint = Multiply the numerator and denominators separately.
+
+question_number = 31
+       question = 3/5 / 1/4
+  question_hint = Invert one of the fractions and multiply that with the other fraction.
+
+question_number = 32
+       question = 6378/42
+  question_hint = How many times does 42 go into 6,378? If it does not divide cleanly, use the quotient for the fraction.
+
+question_number = 33
+       question = Find the area of right angle triange with a base of 6 units and a height of 8 units
+  question_hint = Area of triangle is (1/2) * base * height. Base is 6 and height is 8.
+
+question_number = 34
+       question = Find the area of a rectangle with a length of 10 units and a width of 4 units
+  question_hint = Area of rectangle is length * width. Length is 10 and width is 4.
+
+question_number = 35
+       question = Calculate the volume of a sphere with a radius of 5 units to the nearest tenths
+  question_hint = Volume of a sphere is (4/3)*pi*r^3. r = radius is 5, pi is rounded to 3.14.
+
+question_number = 36
+       question = Solve for x: 2x - 5 = 11
+  question_hint = Add 5 to both sides and divide by 2.
+
+question_number = 37
+       question = Solve for x: 3x + 5 = 17
+  question_hint = Subtract 5 from both sides and divide by 3.
+
+question_number = 38
+       question = Factor the expression: x^2 - 4
+  question_hint = Quadratic formula is (-b±√(b²-4ac))/(2a). a is 1, b is 0, c is -4.
+
+question_number = 39
+       question = Simplify the expression: (2x^2)(3x^3)
+  question_hint = Multiply the whole numbers and add the exponent values.
+
+question_number = 40
+       question = Solve the equation: 2(2x - 3) = 10
+  question_hint = Divide both sides by 2, add 3, then divide by 2 again.
+
+question_number = 41
+       question = Find the value of x: |x - 7| = 9
+  question_hint = |-9| is 9. -7 and what results in -9?
+
+question_number = 42
+       question = Solve x^2 - 5x + 6 = 0 
+  question_hint = (-b±√(b²-4ac))/(2a). A is 1, b is -5, c is 6.
+
+question_number = 43
+       question = Solve 2x^2 - 7x +3 = 0
+  question_hint = Quadratic formula is (-b±√(b²-4ac))/(2a). a is 2, b is -7, c is 3.
+
+question_number = 44
+       question = Solve x^2 - 9 = 0
+  question_hint = Quadratic formula is (-b±√(b²-4ac))/(2a). a is 1, b is 0, c is -9.
+
+question_number = 45
+       question = Find sin30
+  question_hint = sin30 = cos60. sin 0 is 0, sin 90 is 1.
+
+question_number = 46
+       question = Find cos45
+  question_hint = cos45 = sin45. cos 0 is 1, cos 90 is 0.
+
+question_number = 47
+       question = Find sin60
+  question_hint = sin60 = cos30. sin 0 is 0, sin 90 is 1.
+
+question_number = 48
+       question = Find tan 45
+  question_hint = tan45 = sin0 = cos90.
+
+question_number = 49
+       question = Find cos60
+  question_hint = cos60 = sin30.  cos 0 is 1, cos 90 is 0.
+
+question_number = 50
+       question = Find tan60 + cot30
+  question_hint = Find tan60 then cot30 and add cot30 = cosx/sinx.
+
+question_number = 51
+       question = Find sin45 + cos45
+  question_hint = sin45 = cos45
+
+question_number = 52
+       question = Find the derivative of f(x) = 3x^2 - 4x + 2
+  question_hint = Use the power rule for derivatives: n*x^(n-1). Each term may be calculated separately and combined at the end.
+
+question_number = 53
+       question = Find the derivative of f(x) = 3x^3 - 6x^2 + 2x - 7
+  question_hint = Use the power rule for derivatives: n*x^(n-1). Each term may be calculated separately and combined at the end.
+
+question_number = 54
+       question = Evaluate the integral of ∫(2x^2 - 3x + 4) dx
+  question_hint = Use the power rule for integrals: (1/(n+1))*x^(n+1). Each term may be calculated separately and combined at the end.
+
+question_number = 60
+       question = Find the derivative of f(x) = 3x^2 - 6x +2
+  question_hint = Use the power rule for derivatives: n*x^(n-1). Each term may be calculated separately and combined at the end.
+
+question_number = 61
+       question = Find the derivative of f(x) = e^x + 2x^2
+  question_hint = Use the power rule for derivatives: n*x^(n-1). Each term may be calculated separately and combined at the end.
+
+question_number = 62
+       question = Determine the limit as x approaches infinity of (e^x) / (x^2)
+  question_hint = Use the power rule for integrals: (1/(n+1))*x^(n+1). Each term may be calculated separately and combined at the end.
+
+question_number = 63
+       question = Find the determinant of a 3x3 matrix
+                    | 2  0  1 |
+                    | 3 -1  2 |
+                    | 1  2  0 |
+  question_hint = Multiply the top left to bottom right diagonal and the top right to bottom left diagonal/ Subtract the second diagonal from the first.
+
+question_number = 64
+       question = Solve a system of linear equations
+                    2x + 3y - z = 5
+                    3x + y + 2z = 2
+                    x - 2y + 3z = 7
+  question_hint = Begin by isolating one variable, for example, express z in terms of x and y, then substitute into other equations for elimination.
+
+question_number = 65
+       question = Find the rank of a 4x4 matrix
+                    | 1  2  0  3 |
+                    | 0  1  0  4 |
+                    | 0  3  0  2 |
+                    | 0  0  0  1 |
+  question_hint = Use row reduction to get the matrix in row-echelon form and count the number of non-zero rows.
+
+question_number = 66
+       question = Determine if the vectors (1, 2, 3) and (2, 4, 6) are linearly independent.
+  question_hint = Check if one vector is a scalar multiple of the other.
+
+question_number = 67
+       question = Find the eigenvalues and eigenvectors of the following 2x2 matrix
+                    | 3  1 |
+                    | 1  3 |
+  question_hint = Find the eigenvalues by solving: (det(A−λI)=0). Substitute each eigenvalue into (A−λI) to find the corresponding eigenvectors.
+
+question_number = 68
+       question = Find the eigenvalues of the following 3x3 matrix
+                    | 2  1  0 |
+                    | 1  3  1 |
+                    | 0  1  2 |
+  question_hint = Find the eigenvalues by solving: (det(A−λI)=0). Substitute each eigenvalue into (A−λI) to find the corresponding eigenvectors.
+
+question_number = 69
+       question = Solve the first-order linear differential equation: dy/dx + 2y = 4
+  question_hint = Substitute y = uv, factor the parts involving v and use u to find v. Substitute u and v into y=uv to get the solution.
+
+question_number = 70
+       question = Solve the second-order differential equation: d^2y/dx^2 - 4dy/dx + 4y = 0
+  question_hint = Substitute y=e^(rx)  into the differential equation and solve for r to find characteristic roots.
+
+question_number = 71
+       question = Find the particular solution to the differential equation: dy/dx = 2x with the initial condition y(0) = 3
+  question_hint = Integrate both sides with respect to x and use the initial condition to determine the value of constant C.
+
+question_number = 72
+       question = Solve the differential equation: d^2y/dx^2 - 9y = 0
+  question_hint = Find the characteristic equation, solve for r and construct the solution.
+
+question_number = 73
+       question = Find the general solution to the differential equation: dy/dx + y = x
+  question_hint = Multiply both sides by e^x, rewrite the result and integrate both sides with respect to x.
+
+question_number = 100
+       question = TEST QUESTION: 1 + 1
+  question_hint = HINT UPDATE TEST IN PROGRESS
+question_number = 1
+       question = 3 + 5
+       solution = 8
+
+question_number = 2
+       question = 27 + 48
+       solution = 75
+
+question_number = 3
+       question = 12 + 8 + 5
+       solution = 25
+
+question_number = 4
+       question = 356 + 219
+       solution = 575
+
+question_number = 5
+       question = 4.6 + 2.73
+       solution = 7.33
+
+question_number = 6
+       question = 3,456,789 + 2,987,654
+       solution = 6444443
+
+question_number = 7
+       question = 9 - 3
+       solution = 6
+
+question_number = 8
+       question = 45 - 18
+       solution = 27
+
+question_number = 9
+       question = 100 - 27
+       solution = 73
+
+question_number = 10
+       question = 748 - 392
+       solution = 356
+
+question_number = 11
+       question = 8.25 - 3.68
+       solution = 4.57
+
+question_number = 12
+       question = 8,765 - 3,219
+       solution = 5546
+
+question_number = 13
+       question = 6 x 7
+       solution = 42
+
+question_number = 14
+       question = 4 x 8
+       solution = 32
+
+question_number = 15
+       question = 9 x 0
+       solution = 0
+
+question_number = 16
+       question = 324 x 17
+       solution = 5508
+
+question_number = 17
+       question = 3.5 x 2.5
+       solution = 8.75
+
+question_number = 18
+       question = 789 x 456
+       solution = 359784
+
+question_number = 19
+       question = 5.2 x 14
+       solution = 72.8
+
+question_number = 20
+       question = 63 / 7
+       solution = 9
+
+question_number = 21
+       question = 36 / 3
+       solution = 12
+
+question_number = 22
+       question = 27 / 1
+       solution = 27
+
+question_number = 23
+       question = 294 / 7
+       solution = 42
+
+question_number = 24
+       question = 8.4 / 2
+       solution = 4.2
+
+question_number = 25
+       question = 5.6 / 0.4
+       solution = 14
+
+question_number = 26
+       question = 1/4 + 3/8
+       solution = 5/8
+
+question_number = 27
+       question = 5.25 + 1/3
+       solution = 5 7/12
+
+question_number = 28
+       question = 5 3/4 - 2 1/2
+       solution = 3 1/4
+
+question_number = 29
+       question = 12.5 - 1/3
+       solution = 12 1/6
+
+question_number = 30
+       question = 2/3 x 3/4
+       solution = 1/2
+
+question_number = 31
+       question = 3/5 / 1/4
+       solution = 4/5
+
+question_number = 32
+       question = 6378/42
+       solution = 36 6/7
+
+question_number = 33
+       question = Find the area of right angle triange with a base of 6 units and a height of 8 units
+       solution = 24 square units
+
+question_number = 34
+       question = Find the area of a rectangle with a length of 10 units and a width of 4 units
+       solution = 40 square units
+
+question_number = 35
+       question = Calculate the volume of a sphere with a radius of 5 units to the nearest tenths
+       solution = 523.6 cubic units
+
+question_number = 36
+       question = Solve for x: 2x - 5 = 11
+       solution = x = 8
+
+question_number = 37
+       question = Solve for x: 3x + 5 = 17
+       solution = x = 4
+
+question_number = 38
+       question = Factor the expression: x^2 - 4
+       solution = (x - 2)(x + 2)
+
+question_number = 39
+       question = Simplify the expression: (2x^2)(3x^3)
+       solution = 6x^5
+
+question_number = 40
+       question = Solve the equation: 2(2x - 3) = 10
+       solution = x = 4
+
+question_number = 41
+       question = Find the value of x: |x - 7| = 9
+       solution = x = -2
+
+question_number = 42
+       question = Solve x^2 - 5x + 6 = 0 
+       solution = x = 2 or x = 3
+
+question_number = 43
+       question = Solve 2x^2 - 7x +3 = 0
+       solution = x = 1/2 or x = 3
+
+question_number = 44
+       question = Solve x^2 - 9 = 0
+       solution = x = 3 or x = -3
+
+question_number = 45
+       question = Find sin30
+       solution = 1/2
+
+question_number = 46
+       question = Find cos45
+       solution = √2/2
+
+question_number = 47
+       question = Find sin60
+       solution = √3/2
+
+question_number = 48
+       question = Find tan 45
+       solution = 1
+
+question_number = 49
+       question = Find cos60
+       solution = 1/2
+
+question_number = 50
+       question = Find tan60 + cot30
+       solution = 2√3
+
+question_number = 51
+       question = Find sin45 + cos45
+       solution = √2
+
+question_number = 52
+       question = Find the derivative of f(x) = 3x^2 - 4x + 2
+       solution = 9x^2 - 4
+
+question_number = 53
+       question = Find the derivative of f(x) = 3x^3 - 6x^2 + 2x - 7
+       solution = 9x^2 - 12x + 2
+
+question_number = 54
+       question = Evaluate the integral of ∫(2x^2 - 3x + 4) dx
+       solution = (2/3)x^3 - (3/2)x^2 + 4x + C, where C is the constant of integration
+
+question_number = 60
+       question = Find the derivative of f(x) = 3x^2 - 6x +2
+       solution = 6x - 6
+
+question_number = 61
+       question = Find the derivative of f(x) = e^x + 2x^2
+       solution = e^x + 4x
+
+question_number = 62
+       question = Determine the limit as x approaches infinity of (e^x) / (x^2)
+       solution =  The limit is 0
+
+question_number = 63
+       question = Find the determinant of a 3x3 matrix
+                    | 2  0  1 |
+                    | 3 -1  2 |
+                    | 1  2  0 |
+       solution = -1
+
+question_number = 64
+       question = Solve a system of linear equations
+                    2x + 3y - z = 5
+                    3x + y + 2z = 2
+                    x - 2y + 3z = 7
+       solution = x = -1, y = 2, z = -1
+
+question_number = 65
+       question = Find the rank of a 4x4 matrix
+                    | 1  2  0  3 |
+                    | 0  1  0  4 |
+                    | 0  3  0  2 |
+                    | 0  0  0  1 |
+       solution = 3
+
+question_number = 66
+       question = Determine if the vectors (1, 2, 3) and (2, 4, 6) are linearly independent.
+       solution = These vectors are linearly dependent since one is a scalar multiple of the other.
+
+question_number = 67
+       question = Find the eigenvalues and eigenvectors of the following 2x2 matrix
+                    | 3  1 |
+                    | 1  3 |
+       solution = The eigenvalues are λ₁ = 4 and λ₂ = 2, and their corresponding eigenvectors are [1, 1] and [1, -1]
+
+question_number = 68
+       question = Find the eigenvalues of the following 3x3 matrix
+                    | 2  1  0 |
+                    | 1  3  1 |
+                    | 0  1  2 |
+       solution = The eigenvalues are λ₁ = 1, λ₂ = 3, λ₃ = 3
+
+question_number = 69
+       question = Solve the first-order linear differential equation: dy/dx + 2y = 4
+       solution = y = 2 + Ce^(-2x), where C is a constant
+
+question_number = 70
+       question = Solve the second-order differential equation: d^2y/dx^2 - 4dy/dx + 4y = 0
+       solution = y = (C1 + C2x)e^(2x), where C1 and C2 are constants
+
+question_number = 71
+       question = Find the particular solution to the differential equation: dy/dx = 2x with the initial condition y(0) = 3
+       solution = y = x^2 + 3
+
+question_number = 72
+       question = Solve the differential equation: d^2y/dx^2 - 9y = 0
+       solution = y=c1e^(3x)+c2e^(-3x)
+
+question_number = 73
+       question = Find the general solution to the differential equation: dy/dx + y = x
+       solution = ye^x = xe^x-e^x+C, where C is a constant.

@@ -1,0 +1,125 @@
+/* style.css */
+
+/* Styling for the start menu */
+.start-menu {
+	margin: 30px 30px 30px 30px;
+	background-color: #333;
+	color: white;
+	padding: 20px;
+	position: absolute;
+  	top: 60%;
+  	left: 35%;
+	list-style: none;
+  	
+}
+
+
+	/* Styling for menu items */
+	.start-menu a {
+		font-size: 40px;
+		color: white;
+		text-decoration: none;
+		padding-left: 30px;
+		padding-right: 30px;
+		margin-top: 20px;
+  		margin-bottom: 20px;
+		text-align: center;
+		display: block;
+		width: 250px;
+		font-family: "Courier New", monospace;
+	}
+	.start-menu li {
+		margin-top: 20px;
+  		margin-bottom: 20px;
+	}
+
+
+	.start-menu a:hover {
+		background-color: #555;
+	}
+
+.game-container {
+	text-align: center;
+}
+
+.timer {
+	font-size: 24px;
+    font-weight: bold;
+}
+
+.question {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.guess-input {
+    margin-top: 10px;
+}
+
+.result-text-correct {
+    margin-top: 10px;
+    font-weight: bold;
+    color: green; /* Adjust color as needed */
+}
+
+.result-text-incorrect {
+    margin-top: 10px;
+    font-weight: bold;
+    color: red; /* Adjust color as needed */
+}
+
+.history-text {
+    margin-top: 10px;
+    font-style: italic;
+}
+
+.dark-mode {
+    background-color: #333; 
+    color: white;
+}
+
+.light-mode {
+    background-color: white;
+    color: black;
+}
+
+.settings-container {
+    width: 200px;
+    margin: auto;
+}
+
+.settings-button {
+    font-size: 24px;
+    padding: 15px;
+    margin: 10px;
+	height: 100px;
+    width: 200px;
+	font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+	font-family: "Courier New", monospace;
+}
+
+.settings-button:hover {
+    background-color: #555;
+    color: white;
+}
+
+.play-again-button, .main-menu-button {
+	margin: 10px;
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+    cursor: pointer;
+	font-family: "Courier New", monospace;
+}
+
+.play-again-button:hover, .main-menu-button:hover {
+	background-color: #555
+}
+
+
+
+
+
+

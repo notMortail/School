@@ -1,0 +1,9 @@
+[mmasood9@compute player_db]$ sqlite3 GamePlayers.db;
+SQLite version 3.40.1 2022-12-28 14:03:47
+Enter ".help" for usage hints.
+sqlite> .read GamePlayers_dbAcceptanceTests_script.sql
+          player_username = mathmaster1
+       total_games_played = 10
+   total_questions_solved = 5
+total_score_for_all_games = 500
+   highest_score_achieved = 50
